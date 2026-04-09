@@ -1,5 +1,3 @@
-# Given an arry of integers nums and an integer target, return the indices of the two numbers such that they add up to target.
-
 
 # we can solve this problem by many ways but the most comman way is this:
 
