@@ -36,3 +36,9 @@ for i in nums:
     duplicate_checker.append(i)
 else:
     print(False)
+
+# task for you to make it much more faster like O(1)
+# Ask yourself:
+# Do I even need a list for duplicate_checker, or is there a faster data structure for in checks?
+
+
