@@ -1,4 +1,3 @@
-
 # we can solve this problem by many ways but the most comman way is this:
 
 num = [2 , 3, 4, 5, 22, 4] 
