@@ -1,0 +1,1 @@
+You are given a list of numbers from 1 to n, but one number is missing.you have to find first missing number
